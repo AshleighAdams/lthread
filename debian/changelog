@@ -1,0 +1,6 @@
+liblthread (1.0.0.1) unstable; urgency=medium
+
+  * Initial debian package.
+  * Builds as a shared library rather than static.
+
+ -- Kate Adams <self@kateadams.eu>  Wed, 12 Aug 2015 17:46:16 +0100
